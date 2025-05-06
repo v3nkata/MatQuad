@@ -1,4 +1,4 @@
-# NumQuad
+# MatQuad
 MATLAB implementation of some well known numerical quadrature rules. 
 
 The following quadrature rules have been implemented: 
@@ -11,4 +11,4 @@ The following quadrature rules have been implemented:
 - Gauss-Laguerre method 
 - Gauss-Lobatto method
 
-The code is meant to be beginner friendly and aimed at those starting out with Numerical analysis. You can also find the associated theory if you feel the need of a refresher.
+The code is meant to be beginner friendly and aimed at those starting out with Finite element analysis. You can also find the associated theory if you feel the need of a refresher.
